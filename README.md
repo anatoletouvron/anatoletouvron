@@ -22,9 +22,9 @@ I'm a **front-end developer** with a strong focus on **animations**, **UX intera
 ![Nuxt](https://img.shields.io/badge/-Nuxt-000000?style=flat-square&logo=nuxt.js&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
-![Astro](https://img.shields.io/badge/-Astro-000000?style=flat-square&logo=astro&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-000000?style=flat-square&logo=greensock&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-000000?style=flat-square&logo=astro&logoColor=white)  
+![GSAP](https://img.shields.io/badge/-GSAP-000000?style=flat-square&logo=greensock&logoColor=white)  
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)  
 
 **Project Setup & Tooling:**  
 ![ESLint](https://img.shields.io/badge/-ESLint-000000?style=flat-square&logo=eslint&logoColor=white)  
