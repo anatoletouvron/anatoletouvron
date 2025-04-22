@@ -9,7 +9,7 @@ I'm a **front-end developer** with a strong focus on **animations**, **UX intera
 
 - 🎓 Studied at **Gobelins** and **Hétic**  
 - 👨‍💻 **5 years of freelancing**, working with creative studios, startups & agencies in Paris  
-- 🏆 Most proud of my time at **[Lusion](https://lusion.co) **, where I leveled up both technically and creatively  
+- 🏆 Most proud of my time at [Lusion](https://lusion.co), where I leveled up both technically and creatively  
 - 🛠 Passionate about building performant, interactive UIs and experimenting with modern tooling — I love understanding the core of how things work, and choosing tools with intention
 
 ---
