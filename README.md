@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Anatole — Front-End Developer in Paris
 
 Welcome to my GitHub!  
-I'm a **front-end developer** with a strong focus on **animations**, **UX interactions**, and writing clean, maintainable code. I love crafting smooth experiences and diving deep into how things really work.
+I'm a **front-end developer** with a strong focus on **animations**, **interactions**, and writing clean, maintainable code. I love crafting smooth experiences and understanding how things really work.
 
 ---
 
