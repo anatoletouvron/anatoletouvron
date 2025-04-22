@@ -17,30 +17,30 @@ I'm a **front-end developer** with a strong focus on **animations**, **UX intera
 ## 🧰 Tech Stack & Tools
 
 **Front-end:**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
-![Astro](https://img.shields.io/badge/Astro-000000?style=flat&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=vue.js&logoColor=white)  
+![Nuxt](https://img.shields.io/badge/-Nuxt-000000?style=flat-square&logo=nuxt.js&logoColor=white)  
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
+![Astro](https://img.shields.io/badge/-Astro-000000?style=flat-square&logo=astro&logoColor=white)
 
 **Project Setup & Tooling:**  
-![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint)  
-![Stylelint](https://img.shields.io/badge/-Stylelint-black?style=flat-square&logo=stylelint)  
+![ESLint](https://img.shields.io/badge/-ESLint-000000?style=flat-square&logo=eslint&logoColor=white)  
+![Stylelint](https://img.shields.io/badge/-Stylelint-000000?style=flat-square&logo=stylelint&logoColor=white)  
 📦 npm versioning / mono-repos / scalable boilerplates  
 🧩 Design tokens, conventions, structure — I love building dev-friendly ecosystems
 
 **Back-end & CMS:**  
-![Strapi](https://img.shields.io/badge/-Strapi-black?style=flat-square&logo=strapi)  
-![Sanity](https://img.shields.io/badge/-Sanity-black?style=flat-square&logo=sanity)  
-![Prismic](https://img.shields.io/badge/-Prismic-black?style=flat-square&logo=prismic)  
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Strapi](https://img.shields.io/badge/-Strapi-000000?style=flat-square&logo=strapi&logoColor=white)  
+![Sanity](https://img.shields.io/badge/-Sanity-000000?style=flat-square&logo=sanity&logoColor=white)  
+![Prismic](https://img.shields.io/badge/-Prismic-000000?style=flat-square&logo=prismic&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=white)
 
 **Tools & DevOps:**  
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)  
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)  
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)  
+![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat-square&logo=gitlab&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white)  
 🖥️ Setup VPS / Nginx / Ubuntu, DNS configs, HTTPS etc.
 
 ---
