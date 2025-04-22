@@ -1,29 +1,34 @@
 # 👋 Hello! I'm Anatole — Front-End Developer in Paris
 
 Welcome to my GitHub!  
-I'm a **front-end developer** with a strong focus on **animations**, **UX interactions**, and writing clean, maintainable code. I love crafting smooth experiences and diving deep into how things really work — minimal libraries, maximum understanding.
+I'm a **front-end developer** with a strong focus on **animations**, **UX interactions**, and writing clean, maintainable code. I love crafting smooth experiences and diving deep into how things really work.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Studied at **Gobelins** and **Hétic**, two of the best digital schools in France  
+- 🎓 Studied at **Gobelins** and **Hétic**  
 - 👨‍💻 **5 years of freelancing**, working with creative studios, startups & agencies in Paris  
-- 🏆 Most proud of my time at **Lusion**, where I leveled up both technically and creatively  
-- 🛠 Passionate about building performant, interactive UIs and experimenting with modern tooling  
-- ☕ I like my code like my coffee: strong, clean, and without too much sugar (read: libraries)
+- 🏆 Most proud of my time at **[Lusion](https://lusion.co) **, where I leveled up both technically and creatively  
+- 🛠 Passionate about building performant, interactive UIs and experimenting with modern tooling — I love understanding the core of how things work, and choosing tools with intention
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
 **Front-end:**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
-![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)  
-![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxt.js)  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+![Astro](https://img.shields.io/badge/Astro-000000?style=flat&logo=astro&logoColor=white)
+
+**Project Setup & Tooling:**  
+![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint)  
+![Stylelint](https://img.shields.io/badge/-Stylelint-black?style=flat-square&logo=stylelint)  
+📦 npm versioning / mono-repos / scalable boilerplates  
+🧩 Design tokens, conventions, structure — I love building dev-friendly ecosystems
 
 **Back-end & CMS:**  
 ![Strapi](https://img.shields.io/badge/-Strapi-black?style=flat-square&logo=strapi)  
@@ -43,8 +48,10 @@ I'm a **front-end developer** with a strong focus on **animations**, **UX intera
 ## 💡 Interests
 
 - ✨ Advanced UI/UX interactions & creative front-end  
-- 🧼 Clean, vanilla code when possible — no bloat, just purpose  
-- 📦 Web performance, modern tooling, accessibility  
+- 🧼 Writing clean, intentional code — I like understanding the fundamentals, but I’m not shy about using frameworks when they’re the right tool  
+- 🧱 Building solid dev foundations: linting, structure, naming, versions  
+- 🌐 I enjoy exploring the back-end too — from CMS setups (Strapi, Sanity, Prismic) to building custom APIs with Django  
+- 🔄 Full-stack mindset: I like understanding the full flow — from design to deployment  
 - 🌱 Currently exploring Astro & the modern web without the noise
 
 ---
